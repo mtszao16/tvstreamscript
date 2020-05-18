@@ -1,13 +1,13 @@
 <?php
 $license_key = "http://tvstreamscript.tk";
 
-$dbhost = "localhost";
-$dbuser = "root";
-$dbpass = "mysql";
-$dbname = "tvss";
+$dbhost = "filmeonlinemax.jdevcloud.com";
+$dbuser = "xdrfmpmn";
+$dbpass = "fivemrp";
+$dbname = "xdrfmpmn";
  
-$baseurl = "http://localhost/tvss";
-$basepath = "C:/Ampps/www/tvss";
+$baseurl = "http://streamtvflix.herokuapp.com";
+$basepath = "streamtvflix.herokuapp.com";
 $sitename = "tvs";
 
 $siteslogan = "";
